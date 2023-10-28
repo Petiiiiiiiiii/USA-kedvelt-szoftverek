@@ -1,0 +1,15 @@
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\bin\Debug\net6.0\Szoftverek.exe
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\bin\Debug\net6.0\Szoftverek.deps.json
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\bin\Debug\net6.0\Szoftverek.runtimeconfig.json
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\bin\Debug\net6.0\Szoftverek.dll
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\bin\Debug\net6.0\Szoftverek.pdb
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.csproj.AssemblyReference.cache
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.AssemblyInfoInputs.cache
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.AssemblyInfo.cs
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.dll
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\refint\Szoftverek.dll
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.pdb
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\Szoftverek.genruntimeconfig.cache
+C:\Users\BOSS\source\repos\Szoftverek\Szoftverek\obj\Debug\net6.0\ref\Szoftverek.dll

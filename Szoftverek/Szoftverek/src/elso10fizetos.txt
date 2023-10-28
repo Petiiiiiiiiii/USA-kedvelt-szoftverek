@@ -1,0 +1,90 @@
+	azonosító: 1 
+	név és verziószám: Adobe Photoshop 23.1 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows, MacOS 
+	kategória: grafikai szerkesztő 
+	felhasználói értékelés: 9.5 
+	nettó ár: 599.99 
+	adókulcs: 9% 
+
+	azonosító: 4 
+	név és verziószám: Final Cut Pro 10.5 
+	licenc típus: fizetős 
+	operációs rendszerek: MacOS 
+	kategória: videószerkesztő 
+	felhasználói értékelés: 9.7 
+	nettó ár: 299.99 
+	adókulcs: 6% 
+
+	azonosító: 5 
+	név és verziószám: AutoCAD 2023 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows, MacOS 
+	kategória: cad szoftver 
+	felhasználói értékelés: 9.3 
+	nettó ár: 1299.99 
+	adókulcs: 5% 
+
+	azonosító: 6 
+	név és verziószám: Adobe Illustrator 27 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows, MacOS 
+	kategória: vektorgrafikai szerkesztő 
+	felhasználói értékelés: 9.4 
+	nettó ár: 249.99 
+	adókulcs: 6% 
+
+	azonosító: 7 
+	név és verziószám: Windows 11 Pro 11 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows 
+	kategória: operációs rendszer 
+	felhasználói értékelés: 9.1 
+	nettó ár: 199.99 
+	adókulcs: 8% 
+
+	azonosító: 8 
+	név és verziószám: Logic Pro X 10.7 
+	licenc típus: fizetős 
+	operációs rendszerek: MacOS 
+	kategória: hangszerkesztő 
+	felhasználói értékelés: 9.6 
+	nettó ár: 199.99 
+	adókulcs: 6% 
+
+	azonosító: 11 
+	név és verziószám: Adobe Premiere Pro 27.1 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows, MacOS 
+	kategória: videószerkesztő 
+	felhasználói értékelés: 9.6 
+	nettó ár: 299.99 
+	adókulcs: 7% 
+
+	azonosító: 13 
+	név és verziószám: CorelDRAW Graphics Suite 2023 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows 
+	kategória: grafikai szerkesztő 
+	felhasználói értékelés: 9.4 
+	nettó ár: 499.99 
+	adókulcs: 6% 
+
+	azonosító: 14 
+	név és verziószám: Microsoft Windows 10 Home 10 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows 
+	kategória: operációs rendszer 
+	felhasználói értékelés: 9 
+	nettó ár: 139.99 
+	adókulcs: 7% 
+
+	azonosító: 15 
+	név és verziószám: Adobe Acrobat Pro 2023 
+	licenc típus: fizetős 
+	operációs rendszerek: Windows, MacOS 
+	kategória: pdf szerkesztő 
+	felhasználói értékelés: 9.2 
+	nettó ár: 199.99 
+	adókulcs: 6% 
+
